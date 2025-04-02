@@ -3,6 +3,7 @@ Takes an AI generated project tree structure and stubs it out
 
 
 Example Stub:
+```
 myproject/
 │── docker-compose.yml
 │── Dockerfile
@@ -80,3 +81,4 @@ myproject/
 │   ├── test_models.py
 │   ├── test_forms.py
 │── .gitignore
+```
